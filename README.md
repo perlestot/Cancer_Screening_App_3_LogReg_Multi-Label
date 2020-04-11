@@ -1,8 +1,6 @@
 # Cancer_Screening_App
-Demo Cancer screening application with Logistic Regression
+Demo Cancer screening application using Logistic Regression with multi-label
 
-https://cancer-screening-app-2.herokuapp.com/ 
+https://cancer-screening-app-3.herokuapp.com/ 
 
 deployed to Heroku
-
-heroku logs --tail --cancer-screening-app-2
